@@ -1,3 +1,8 @@
+# xa-adlist 
+# please make a issue on the github repo if it needs changing, stuff adding etc.
+# -> https://github.com/tc012/xa-adlist/issues <-
+
+# Curseforge Ads
 0.0.0.0 mrkt.forgecdn.net
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 overwolf-d.openx.net
