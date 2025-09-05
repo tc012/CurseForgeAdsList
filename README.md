@@ -1,3 +1,2 @@
-# Block Curseforge Ads :)
-
-### This page is awaiting content.
+# Andrew's Ad Block List
+## Blocks Ads etc. (work in progess)
