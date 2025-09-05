@@ -10,3 +10,11 @@
 0.0.0.0 content.overwolf.com
 0.0.0.0 ep2.adtrafficquality.google
 0.0.0.0 ssbsync.smartadserver.com
+
+# Adobe (CC2015)
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 practivate.adobe.com 
+127.0.0.1 activate.adobe.com
